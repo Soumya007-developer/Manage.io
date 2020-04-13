@@ -1,0 +1,27 @@
+#content{
+  text-align: center;
+  padding-top: 25%;
+  text-shadow: 0px 4px 3px #e90b0b,
+               0px 8px 13px #511149,
+               0px 18px 23px #511149;
+}
+body{
+  background-image: url(https://images.unsplash.com/photo-1571424768427-7b9aa9db7444?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+  background-repeat:no-repeat;
+background-position: center;
+  background-size: cover;
+  font-family: "Montserrat";
+
+}
+h2{
+  color:#35091f;
+}
+h1{
+  font-weight: 700;
+  font-size: 5em;
+}
+hr{
+  width: 500px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
